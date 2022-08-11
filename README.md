@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pollumnaa
 - 👀 I’m interested in Data Science and Analytics. 
-- 🌱 I’m currently learning such Python modules as Pandas and Matplotlib.
+- 🌱 I’m currently learning such Python modules as Pandas and NumPy.
 - 💞️ I’m looking to collaborate on IT companies.
-- 📫 How to reach me https://t.me/pollumnaa
+- 📫 How to reach me pollumnaa@mail.ru or https://t.me/pollumnaa
